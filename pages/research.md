@@ -2,6 +2,7 @@
 layout: page
 title: Our Research
 permalink: /research
+image: gw-background.jpg
 ---
 
 Historically, nearly all astronomy is performed using *light*, ripples in the electromagnetic field due to moving electrons.
