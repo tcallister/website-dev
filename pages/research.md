@@ -2,7 +2,7 @@
 layout: page
 title: Our Research
 permalink: /research
-image: gw-background.jpg
+image: test-bbh-image.jpg
 ---
 
 *Interested in learning more about our work, and/or opportunities to get involved? Email me at tac7@williams.edu!*
